@@ -1,0 +1,386 @@
+{
+  "project_info": {
+    "project_number": "164253232924",
+    "firebase_url": "https://sample-60e19-default-rtdb.firebaseio.com",
+    "project_id": "sample-60e19",
+    "storage_bucket": "sample-60e19.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164253232924:android:768302254aeb60271554d9",
+        "android_client_info": {
+          "package_name": "com.example.servicebookingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164253232924-dn8hts0or5l7c612b1tlmpvbjlr8limk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.servicebookingapp",
+            "certificate_hash": "47a9560ca8efe9728a634be23753ecb899489d69"
+          }
+        },
+        {
+          "client_id": "164253232924-aqiikq8vsbcthv6j2r0qo305obvvjnkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXXbck_5lhwwnHxXuzYFOS3zsCoCaNI24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164253232924-aqiikq8vsbcthv6j2r0qo305obvvjnkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164253232924:android:6c6fab1ee1439d681554d9",
+        "android_client_info": {
+          "package_name": "edu.ddukk.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164253232924-aqiikq8vsbcthv6j2r0qo305obvvjnkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXXbck_5lhwwnHxXuzYFOS3zsCoCaNI24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164253232924-aqiikq8vsbcthv6j2r0qo305obvvjnkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164253232924:android:fe37a9af4333b3fb1554d9",
+        "android_client_info": {
+          "package_name": "edu.ddukk.fixapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164253232924-aqiikq8vsbcthv6j2r0qo305obvvjnkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXXbck_5lhwwnHxXuzYFOS3zsCoCaNI24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164253232924-aqiikq8vsbcthv6j2r0qo305obvvjnkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164253232924:android:6c562c026e284ab71554d9",
+        "android_client_info": {
+          "package_name": "edu.ddukk.fixitnow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164253232924-4adcl923ff71ucleiqm4pk0rb74aj8te.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.ddukk.fixitnow",
+            "certificate_hash": "47a9560ca8efe9728a634be23753ecb899489d69"
+          }
+        },
+        {
+          "client_id": "164253232924-aqiikq8vsbcthv6j2r0qo305obvvjnkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXXbck_5lhwwnHxXuzYFOS3zsCoCaNI24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164253232924-aqiikq8vsbcthv6j2r0qo305obvvjnkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164253232924:android:fe734bf5b21a23541554d9",
+        "android_client_info": {
+          "package_name": "edu.ddukk.notesappexam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164253232924-9v577taeof0clm4trs5jcj76nnlimrk0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.ddukk.notesappexam",
+            "certificate_hash": "47a9560ca8efe9728a634be23753ecb899489d69"
+          }
+        },
+        {
+          "client_id": "164253232924-aqiikq8vsbcthv6j2r0qo305obvvjnkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXXbck_5lhwwnHxXuzYFOS3zsCoCaNI24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164253232924-aqiikq8vsbcthv6j2r0qo305obvvjnkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164253232924:android:dc67bf0832e0eccf1554d9",
+        "android_client_info": {
+          "package_name": "edu.ddukk.productfirestoresave"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164253232924-aqiikq8vsbcthv6j2r0qo305obvvjnkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXXbck_5lhwwnHxXuzYFOS3zsCoCaNI24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164253232924-aqiikq8vsbcthv6j2r0qo305obvvjnkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164253232924:android:a2f4dcb2ac5d310d1554d9",
+        "android_client_info": {
+          "package_name": "edu.ddukk.project2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164253232924-n4anbuvsbl04qed0gdresum9vd3ac9tb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.ddukk.project2",
+            "certificate_hash": "47a9560ca8efe9728a634be23753ecb899489d69"
+          }
+        },
+        {
+          "client_id": "164253232924-aqiikq8vsbcthv6j2r0qo305obvvjnkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXXbck_5lhwwnHxXuzYFOS3zsCoCaNI24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164253232924-aqiikq8vsbcthv6j2r0qo305obvvjnkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164253232924:android:8729b737091927d31554d9",
+        "android_client_info": {
+          "package_name": "edu.ddukk.project3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164253232924-79opihtr3kitk7dcoc6s758djthuj2sf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.ddukk.project3",
+            "certificate_hash": "47a9560ca8efe9728a634be23753ecb899489d69"
+          }
+        },
+        {
+          "client_id": "164253232924-aqiikq8vsbcthv6j2r0qo305obvvjnkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXXbck_5lhwwnHxXuzYFOS3zsCoCaNI24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164253232924-aqiikq8vsbcthv6j2r0qo305obvvjnkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164253232924:android:9769d668b4e891e31554d9",
+        "android_client_info": {
+          "package_name": "edu.ddukk.project4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164253232924-4q9dbuhluf56ifinc3ar26assr371ece.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.ddukk.project4",
+            "certificate_hash": "47a9560ca8efe9728a634be23753ecb899489d69"
+          }
+        },
+        {
+          "client_id": "164253232924-aqiikq8vsbcthv6j2r0qo305obvvjnkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXXbck_5lhwwnHxXuzYFOS3zsCoCaNI24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164253232924-aqiikq8vsbcthv6j2r0qo305obvvjnkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164253232924:android:f095b148424d8d1d1554d9",
+        "android_client_info": {
+          "package_name": "edu.ddukk.realtimeappdatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164253232924-aqiikq8vsbcthv6j2r0qo305obvvjnkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXXbck_5lhwwnHxXuzYFOS3zsCoCaNI24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164253232924-aqiikq8vsbcthv6j2r0qo305obvvjnkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164253232924:android:151d44457b6d5cd31554d9",
+        "android_client_info": {
+          "package_name": "zid.edu.asiignment1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164253232924-v9lapm85kfo8kk91an26h8let8d956id.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "zid.edu.asiignment1",
+            "certificate_hash": "47a9560ca8efe9728a634be23753ecb899489d69"
+          }
+        },
+        {
+          "client_id": "164253232924-aqiikq8vsbcthv6j2r0qo305obvvjnkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXXbck_5lhwwnHxXuzYFOS3zsCoCaNI24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164253232924-aqiikq8vsbcthv6j2r0qo305obvvjnkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
